@@ -1,6 +1,9 @@
-# Getting Started with Create React App
-
+# RoboFriends. Made with React.
+_______
+![Снимок экрана (168)](https://user-images.githubusercontent.com/106334144/206426925-519d9d56-8dd6-4106-b05b-53c0c42cde1b.png)
+_______
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Also it's a tutorial from [Zero to Mastery Academy](https://zerotomastery.io/)
 
 ## Available Scripts
 
